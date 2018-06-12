@@ -1,2 +1,2 @@
 # DataScience
-Coursera DataScience track courses
+DataScience exercises/courses of Johns Hopkins (Coursera)
